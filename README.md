@@ -14,4 +14,4 @@ a. Deskripsi singkat tentang aplikasi.
 <br>-Parking Data Information
 <br>-Qr Payment
 <br>-Profile organizations
-d. Link Video : [https://drive.google.com/file/d/1KadtQ95glIQeqMeM8MdSW7ivRrNTx38k/view?usp=sharing](https://drive.google.com/file/d/1biSrr-nCDr7rAegsvPlmqjDAmPrn175b/view?usp=sharing)
+<br>d. Link Video : [https://drive.google.com/file/d/1KadtQ95glIQeqMeM8MdSW7ivRrNTx38k/view?usp=sharing](https://drive.google.com/file/d/1biSrr-nCDr7rAegsvPlmqjDAmPrn175b/view?usp=sharing)
