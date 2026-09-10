@@ -6,7 +6,7 @@ a. Deskripsi singkat tentang aplikasi.
 <br>2. Marcellus Eugene Kaparang - 00000082420
 <br>3. Karsteen Pambudi - 00000083253
 <br>4. Marcellino Melkianus - 00000082284
-<br>c. Fitur-fitur yang sudah diimplementasikan.
+<br><br>c. Fitur-fitur yang sudah diimplementasikan.
 <br>-Login
 <br>-Register
 <br>-Forgot Password
@@ -14,4 +14,4 @@ a. Deskripsi singkat tentang aplikasi.
 <br>-Parking Data Information
 <br>-Qr Payment
 <br>-Profile organizations
-<br>d. Link Video : [https://drive.google.com/file/d/1KadtQ95glIQeqMeM8MdSW7ivRrNTx38k/view?usp=sharing](https://drive.google.com/file/d/1biSrr-nCDr7rAegsvPlmqjDAmPrn175b/view?usp=sharing)
+<br><br>d. Link Video : [https://drive.google.com/file/d/1KadtQ95glIQeqMeM8MdSW7ivRrNTx38k/view?usp=sharing](https://drive.google.com/file/d/1biSrr-nCDr7rAegsvPlmqjDAmPrn175b/view?usp=sharing)
